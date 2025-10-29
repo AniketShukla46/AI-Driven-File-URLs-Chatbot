@@ -170,3 +170,4 @@ def get_chat(saved_name: str):
         return {"chat": [{"role": r, "text": t} for (r, t) in lst]}
     except Exception as e:
         return JSONResponse(status_code=500, content={"error": str(e)})
+
