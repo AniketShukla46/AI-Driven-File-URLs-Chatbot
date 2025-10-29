@@ -51,3 +51,4 @@ def load_docs_by_ext(ext: str, path: str):
         return load_url_file(path)
     # fallback to text loader
     return load_text(path)
+
