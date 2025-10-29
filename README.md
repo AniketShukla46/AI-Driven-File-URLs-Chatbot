@@ -18,10 +18,11 @@ This project is an AI-powered chatbot built using FastAPI, LangChain, and a cust
 | Component  | Technology        |
 |-----------|-------------------|
 | Backend   | FastAPI, Python   |
-| Frontend  | HTML, CSS, JS     |
+| Frontend  | Streamlit    |
 | Database  | SQLite            |
 | AI/LLM    | Google Gemini (LangChain) |
 
 ---
+
 
 
