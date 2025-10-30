@@ -5,8 +5,7 @@ This project is an AI-powered chatbot built using FastAPI, LangChain, and a cust
 
 ---
 
-## 🔧 Features
-✅ User authentication (Login / Signup / Forgot Password)  
+## 🔧 Features  
 ✅ File upload with automatic SQL storage  
 ✅ AI Q&A using LangChain & Google Gemini  
 ✅ Frontend in Streamlit 
@@ -23,6 +22,7 @@ This project is an AI-powered chatbot built using FastAPI, LangChain, and a cust
 | AI/LLM    | Google Gemini (LangChain) |
 
 ---
+
 
 
 
